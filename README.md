@@ -2,3 +2,4 @@
 
 Interactive visualisation for Spotify streams in Europe and North America during the period 2017-2021. 
 
+The visualisation doesn't render properly on GitHub and can be accessed [here](https://www.jakobsalomonsson.com/spotify-streams.html) instead. 
